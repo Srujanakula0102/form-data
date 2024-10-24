@@ -1,6 +1,6 @@
 /* Base styles for larger screens (laptops and desktops) */
 body {
-    background-image: linear-gradient(rgba(40, 37, 37, 0.75), rgba(94, 87, 87, 0.75)), url("family.JPG");
+    background-image: linear-gradient(rgba(40, 37, 37, 0.75), rgba(94, 87, 87, 0.75)), url("family.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
